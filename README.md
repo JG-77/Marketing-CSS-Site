@@ -1,6 +1,9 @@
 # Web-Marketing-Horiseon
-Homework assignment to create a demo site using CSS
-# Website Description
+* Web Link:https://jg-77.github.io/Web-Marketing-Horiseon-Repo/ 
+
+# Description
+The Horiseon Web Marketing site has received an update with the same great look! The site now meets accessibility standards and has improved HTML and CSS semantic structure. 
+
 
 # Notes
 
