@@ -1,4 +1,4 @@
-# Marketing-CSS-Site
+# Web-Marketing-Horiseon
 Homework assignment to create a demo site using CSS
 # Website Description
 
