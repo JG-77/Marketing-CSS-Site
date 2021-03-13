@@ -25,7 +25,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*Pevious div elements changed to nav*/
+/*Pevious div element changed to nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -106,6 +106,7 @@ p {
     text-align: center;
 }
 
+/* Sidebar image styling*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
