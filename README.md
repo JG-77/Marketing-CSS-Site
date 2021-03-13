@@ -3,7 +3,7 @@
 
 # Description
 The Horiseon Web Marketing site has received an update with the same great look! The site now meets accessibility standards and has improved HTML and CSS semantic structure. 
-
+![Website Screenshot](images\Screenshot (15).png) 
 
 # Notes
 
