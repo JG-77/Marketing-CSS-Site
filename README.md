@@ -1,6 +1,6 @@
 # Web-Marketing-Horiseon
 * Web Link:https://jg-77.github.io/Web-Marketing-Horiseon-Repo/ 
-![Horiseon Website Screenshot (2)](https://user-images.githubusercontent.com/76461629/111020466-eff52000-837a-11eb-9fbc-ec476c1bb9df.png)
+
 
 ## Description
 The Horiseon Web Marketing site has received an update with the same great look! The site now meets accessibility standards and has improved HTML and CSS semantic structure. The site now provides a better UI and functionality. Major changes to the site and code structure can be observed in Notes section below or in the project repository.
