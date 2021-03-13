@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*Page background color*/
 body {
     background-color: #d9dcd6;
 }
 
+/* Styling for the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +43,17 @@ body {
     margin-left: 25px;
 }
 
+/* Navbar links*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Font-size for all paragraph text or non-heading text*/
 p {
     font-size: 16px;
 }
 
+/* Styling for main image on the website*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +63,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Sidebar styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,6 +124,23 @@ p {
     max-width: 150px;
 }
 
+/* Styling for images in card sections */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Card sections typography and spacing styling*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -189,6 +195,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer styling*/
 .footer {
     padding: 30px;
     clear: both;
