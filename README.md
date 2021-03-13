@@ -1,5 +1,6 @@
 # Web-Marketing-Horiseon
 * Web Link:https://jg-77.github.io/Web-Marketing-Horiseon-Repo/ 
+![Horiseon Website Screenshot](https://user-images.githubusercontent.com/76461629/111041091-60d42080-83eb-11eb-9476-2c5118309f99.png)
 
 
 ## Description
